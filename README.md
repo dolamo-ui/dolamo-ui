@@ -37,7 +37,16 @@ An AI-powered attendance platform designed for educational institutions with aut
 An AI-powered career management platform that helps job seekers track applications, schedule interviews, visualize progress, and prepare for interviews with intelligent suggestions.
 
 📈 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" /> </div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyakallodolamo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=nyakallodolamo&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyakallodolamo&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 🌍 Connect With Me
 <p align="left"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 🎯 Current Focus
