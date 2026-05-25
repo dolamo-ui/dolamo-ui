@@ -1,8 +1,8 @@
-👋 Hey, I'm Dolamo
+👋 Hey, I'm Nyakallo Dolamo
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%26+React+Native+Developer;Building+Modern+Web+Applications;Passionate+About+UI%2FUX+Design;Always+Learning+New+Technologies" /> <br/>
 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-Passionate about building clean, scalable, and user-friendly applications with modern technologies.
+Passionate about building modern, responsive, and user-friendly web & mobile applications using cutting-edge technologies.
 
 </div>
 💫 About Me
@@ -22,22 +22,22 @@ Passionate about building clean, scalable, and user-friendly applications with m
 🚀 Featured Projects
 🛒 Smart Shopping List
 
-A modern React-based shopping list application with category management, CRUD functionality, and local storage persistence.
+A modern React-based shopping list application featuring category management, CRUD operations, and local storage persistence for a seamless user experience.
 
 🍔 Restaurant Mobile App
 
-A React Native restaurant application with Firebase authentication, admin dashboard, and responsive mobile UI.
+A React Native restaurant application with Firebase authentication, admin dashboard functionality, and a responsive mobile-first user interface.
 
 🤖 AI Attendance Management System
 
-An AI-powered attendance platform for educational institutions with automation and analytics capabilities.
+An AI-powered attendance platform designed for educational institutions with automated attendance tracking, analytics, and smart reporting features.
 
-🦁 Zoo Go
+💼 CareerVault
 
-A zoo-themed web platform featuring ticket booking, quizzes, educational content, login systems, and animal galleries.
+An AI-powered career management platform that helps job seekers track applications, schedule interviews, visualize progress, and prepare for interviews with intelligent suggestions.
 
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+📈 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" /> </div>
 🌍 Connect With Me
 <p align="left"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 🎯 Current Focus
