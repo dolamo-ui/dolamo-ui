@@ -36,13 +36,15 @@ An AI-powered attendance platform designed for educational institutions with aut
 
 An AI-powered career management platform that helps job seekers track applications, schedule interviews, visualize progress, and prepare for interviews with intelligent suggestions.
 
-📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyakallodolamo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=dolamo-ui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=nyakallodolamo&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=dolamo-ui&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolamo-ui&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 🌍 Connect With Me
